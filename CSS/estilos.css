@@ -1,0 +1,69 @@
+body {
+    background-color: rgb(175, 175, 188);
+}
+.cabecera {
+    background-color: rgb(225, 170, 89);
+    height: 120px;
+    text-align: center;
+    padding: 5px;
+}
+.cabecera img {
+    width: 20%;
+    float: left;
+}    
+
+.titulo {
+    text-align: center;
+    color: red;
+    padding: 55px;
+    font-size: 200%;
+}   
+.menu {
+    font-size: 0.5cm;
+    color: black;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: right;
+}
+nav ul li {
+    display: inline-block;
+    font-size: 0.5cm;
+    padding-right: 0.5cm;
+}
+nav ul li a:hover{
+    color: aqua;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-decoration: underline;
+    padding: 0.5cm;
+}
+.izquierda {
+    float: left;
+    width: 30%;
+    padding: 0.5cm;
+}
+.derecha {
+    float: right;
+    width: 50%;
+    padding: 0.5cm;
+}
+.link {
+    clear: both;
+    text-align: center;
+    font-size: 200%;
+    padding: 100px;
+}
+
+
+
+body {
+    background-color: aquamarine;
+}
+.cabecera2 {
+    background-color: rgb(250, 31, 31);
+    text-align: right;
+    height: 100px;
+    padding: 10px;
+}
+.cabecera2 img {
+    width: 10%;
+    float: left;
+}
